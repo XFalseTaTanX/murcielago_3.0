@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Plasma","order":1,"path":"objects/Plasma/Plasma.yy",},
+    {"name":"plasma","order":1,"path":"sprites/plasma/plasma.yy",},
+    {"name":"Sprite10","order":1,"path":"sprites/Sprite10/Sprite10.yy",},
+    {"name":"Object6","order":2,"path":"objects/Object6/Object6.yy",},
+    {"name":"Sprite9","order":3,"path":"sprites/Sprite9/Sprite9.yy",},
+    {"name":"Sprite11","order":2,"path":"sprites/Sprite11/Sprite11.yy",},
+    {"name":"planiando","order":2,"path":"sprites/planiando/planiando.yy",},
+  ],
+}
